@@ -1,4 +1,6 @@
 Hello
 Hi
 branch1 created and pushed to git
+Hi one more line added from branch1 to create conflict
 added line from remote main branch
+
